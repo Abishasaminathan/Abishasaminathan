@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abisha! Welcome to the world of frontend development!
-- 👀 I’m excited to dive into HTML, CSS, Bootstrap, React.js, and React Native - you've got a solid foundation there!
+- 👀 I’m excited to dive into HTML, CSS, Bootstrap, React.js,Next.js and React Native - you've got a solid foundation there!
 - 🌱 As you continue your learning journey, don't hesitate to explore various projects and challenges to strengthen your skills.
 - 💞️ I’m open to collaborating on projects that push boundaries and create meaningful user experiences.
 - 📫 Feel free to reach out to me through my GitHub or LinkedIn profiles! Let's connect and share ideas.
